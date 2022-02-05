@@ -1,0 +1,11 @@
+
+Klienta vārds:Marta
+Klienta uzvārds:Skrastiņa
+Klienta telefona nummurs:112
+Klienta e-pasts:marta@gmail.com
+
+Nummura lielums: divvietīgsKlienta vārds: marta
+Klienta uzvārds: skarstina
+Klienta telefona nummurs: 112
+Klienta e-pasts: marta@inbox.lv
+
